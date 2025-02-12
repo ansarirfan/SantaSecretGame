@@ -10,13 +10,13 @@
 ### Requirements:
 
 - Install the csv-parser library using npm:
-  bash
-  npm install csv-parser
+```  bash
+  npm install csv-parser```
   
 
 ### Running the Code:
 
 1. Save the code in a file, e.g., secretSanta.js.
 2. Run the script using Node.js:
-   bash
-   node secretSanta.js
+  ``` bash
+   node secretSanta.js ```
